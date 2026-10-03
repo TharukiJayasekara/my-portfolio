@@ -4,7 +4,7 @@ A personal portfolio website showcasing my skills, education, projects, and soft
 
 ## Live Website
 
-https://github.com/TharukiJayasekara/my-portfolio
+https://tharukijayasekara.github.io/my-portfolio/
 
 ##  About
 
